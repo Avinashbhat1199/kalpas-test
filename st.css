@@ -1,0 +1,32 @@
+body
+{
+background:#D0D3D4 ;
+}
+.container 
+{
+background:#A6ACAF;
+width:200px;
+height:100px;
+margin:120px auto;
+text-allign:center;
+}
+.container .box
+{
+background:#273746;
+width:200px;
+height:100px;
+
+}
+button
+{
+background:#A6ACAF;
+position:center;
+position: absolute;
+text-allign:center;
+margin:20px;
+}
+.avi
+{
+margin:25px;
+}
+
